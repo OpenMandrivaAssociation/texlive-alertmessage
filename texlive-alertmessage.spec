@@ -3,7 +3,7 @@ Version:	38055
 Release:	2
 Summary:	Alert messages for LaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/alertmessage
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/alertmessage
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/alertmessage.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/alertmessage.doc.r%{version}.tar.xz
